@@ -10,6 +10,8 @@ Repot består av olika appar (microservices) och kodbibliotek. Det är skapat so
 npm install
 ```
 
+awdawda
+
 ## Komponenter
 
 ### surveychimp-api
